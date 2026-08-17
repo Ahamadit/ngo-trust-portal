@@ -1,6 +1,9 @@
 # ngo-trust-portal
-A responsive NGO &amp; Trust Management Portal built with PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap. The platform provides an easy-to-use interface for managing trust information, activities, services, events, and other organizational content. <br>
-🌟 About the Project
+A responsive NGO &amp; Trust Management Portal built with PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap. The platform provides an easy-to-use interface for managing trust information, activities, services, events, and other organizational content. <br> 
+
+
+
+<h3> 🌟 About the Project </h3>
 
 NGO Trust Portal is a modern web application developed to provide a seamless digital presence for an NGO/Trust. The platform allows visitors to easily explore the organization, understand its work, access important resources, and find donation and contact information.
 
